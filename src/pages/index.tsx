@@ -59,7 +59,7 @@ export default function Home() {
           <div className="mt-10 text-left text-gray-500 px-8 text-sm">
             Displaying 1 - {results.length} items out of a total of {results.length} for "{query}"
           </div>
-          <div className="mt-3 px-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="mt-3 mb-8 px-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {results.map((movie: any) => (
               <Card
                 key={movie.id}
