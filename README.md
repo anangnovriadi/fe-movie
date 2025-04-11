@@ -2,7 +2,7 @@
 
 This is a Movie Search Project
 
-* Demo Web: [fe-movie-rose.vercel.app](https://fe-movie-rose.vercel.app)
+* Demo Web: [fe-movie-ten.vercel.app](https://fe-movie-ten.vercel.app)
 
 ## Getting Started
 
